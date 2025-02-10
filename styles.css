@@ -1,6 +1,6 @@
 .container-fluid{
 	display:grid;
-	grid-template-columns:repeat(12,100px);
+	grid-template-columns:repeat(12,100vw);
 }
 img{
 	height:100px;
