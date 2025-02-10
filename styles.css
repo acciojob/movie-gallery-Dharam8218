@@ -1,2 +1,9 @@
-
+.container-fluid{
+	display:grid;
+	grid-template-columns:repeat(12,100px);
+}
+img{
+	height:100px;
+	width:100px;
+}
 /* Your CSS Code here. */
